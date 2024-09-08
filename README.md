@@ -3,8 +3,8 @@ A collection of practice projects in HTML, CSS, and JavaScript.
 
 -> Projects
    -  Tic Tac Toe Game
-   -  To-Do List App
-   -  weather App
+   -  cloning websites
+   -  landing pages
 
 -> Technologies Used
    - HTML
